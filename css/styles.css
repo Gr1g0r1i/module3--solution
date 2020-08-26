@@ -1,0 +1,15 @@
+body { padding-top: 70px; }
+
+#main-content{
+	background-color: #A9A9A9;
+	height: 1000px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.navbar{ background-color: #A9A9A9; }
+
+#collapsing-menu{
+ background-color: #FFFFFF;
+ margin-top: 0px;
+ margin-bottom: 0px;
+  }
